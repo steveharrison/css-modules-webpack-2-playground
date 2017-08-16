@@ -1,0 +1,14 @@
+.container {
+  box-shadow: 1px 0px 4px grey;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.container h3 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.container p {
+  text-align: center;
+}
